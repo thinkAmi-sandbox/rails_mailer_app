@@ -1,24 +1,14 @@
-# README
+# rails_mailer_app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Tested Environment
 
-Things you may want to cover:
+- macOS
+- Rails 6.1.4
+- letter opener 1.7.0
+- delayed_job_active_record 4.1.6
 
-* Ruby version
+　  
 
-* System dependencies
+## Related Blog (Written in Japanese)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Railsで、Action Mailerの callback・interceptor・observer の実行タイミングを調べてみた - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2021/07/25/222924)
